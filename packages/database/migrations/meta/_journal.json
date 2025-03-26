@@ -15,6 +15,20 @@
       "when": 1742981165456,
       "tag": "0001_clammy_mindworm",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1742982590868,
+      "tag": "0002_steady_squirrel_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1742982701542,
+      "tag": "0003_minor_zodiak",
+      "breakpoints": true
     }
   ]
 }
